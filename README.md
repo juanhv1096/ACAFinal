@@ -25,7 +25,7 @@ Clonar el repositorio y entrar a la carpeta del proyecto:
 
 ```bash
 git clone https://github.com/juanhv1096/ACAFinal.git
-cd ACAFInal
+cd ACAFinal
 ```
 
 Instalar las dependencias:
